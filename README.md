@@ -12,11 +12,9 @@
 |__ ai.notebooks :robot: 
    |
    |__ Basic introductions
-   |  |
    |  |__ The definition & Components
    |
    |__ Reasoning, problem solving 
-   |  |
    |  |__ developing earlier algorithms 
    |
    |
