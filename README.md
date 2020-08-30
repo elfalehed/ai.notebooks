@@ -23,7 +23,8 @@
    |
 ``` 
 <br />
-## :leaves: ai.notebook research factors: <br />
+
+## :leaves: research factors: <br />
 
 * Basic introduction (2/3) <br />
 * Reasoning, problem solving (1/3) <br />
