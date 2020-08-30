@@ -4,8 +4,8 @@
 <br />
 
 >
-> [ :warning: ] Paths and resources are noted in the end. 
-> [ :paperclip ] This is a Personal effort / research. If you wanna Help. Don't hesitate to Email-me: KMx404@protonmail.com 
+> [ :warning: ] Paths and resources are noted in the end.  <br />
+> [ :paperclip: ] This is a Personal effort / research. If you wanna Help. Don't hesitate to Email-me: KMx404@protonmail.com 
 >  
 >
 >
