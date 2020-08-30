@@ -9,7 +9,7 @@
 >
 
 ```shell
-|__ ai.notebooks :robot: 
+|__ ai.notebooks
    |
    |__ Basic introductions
    |  |__ The definition & Components
@@ -32,4 +32,13 @@ So in other words we can describe AI as a system ability to correctly interpret 
 <b>Reasoning, problem solving</b> <br />
 
 Early researchers developed algorithms that imitaed step-by-step reasoning that humans use when they solve puzzles or make logical deductions. BY the late 1980s and 1990s, AI research had develped methods for dealing with uncertain or incomplete information, employing concepts from probability and economics. <br />
+
+These algorthms proved to be insufficient for solving large reasoning problems because they experienced a "combinatorial explosion": they became exponentially slower as the problems grew larger. Even humans rarely use the step-by-step deduction that early AI research could model. They solve most of their problems using fast, intuitive judgements. <br />
+
+
+
+
+
+
+
 
