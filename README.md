@@ -9,6 +9,7 @@
 >  
 >
 >
+>
 
 ```shell
 |__ ai.notebooks
@@ -21,8 +22,30 @@
    |
    |
 ``` 
+<br />
+## :leaves: ai.notebook research factors: <br />
 
-
+* Basic introduction (2/3) <br />
+* Reasoning, problem solving (1/3) <br />
+* Knowledge representation (0/3) <br />
+* Planning (0/3) <br /> 
+* Learning (0/3) <br />
+* Natural language processing (0/3) <br />
+* Perception (0/3) <br />
+* Motion and manipulation (0/3)  <br />
+* Social intelligence (0/3) <br />
+* General intelligence (0/3) <br />
+* Cybernetics and brain simulation (0/3) <br />
+* Statistical (0/3) <br />
+* Integrating the approaches (0/3) <br />
+* The limits of artificial general intelligence (0/3) <br />
+* Ethical machines (0/3) <br />
+* Machine consciousness, sentience and mind (0/3) <br />
+* Superintelligence (0/3) <br />
+* Risks on narrow AI (0/3) <br />
+* Risks of general AI (0/3) <br />
+<br />
+<br />
 
 <i>[Wikipedia]  [Basic introduction] </i> <br />
 
