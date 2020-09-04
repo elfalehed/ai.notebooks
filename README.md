@@ -62,8 +62,9 @@ Early researchers developed algorithms that imitaed step-by-step reasoning that 
 These algorthms proved to be insufficient for solving large reasoning problems because they experienced a "combinatorial explosion": they became exponentially slower as the problems grew larger. Even humans rarely use the step-by-step deduction that early AI research could model. They solve most of their problems using fast, intuitive judgements. <br />
 
 
+<b>Knwoledge representation</b> <br />
 
-
+Over time humans tried to come up with methods to represent knowledge using something we call <i style="color: blue;">Knowledge engineering</i> 
 
 
 
