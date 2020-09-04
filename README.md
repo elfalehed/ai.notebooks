@@ -64,9 +64,7 @@ These algorthms proved to be insufficient for solving large reasoning problems b
 
 <b>Knwoledge representation</b> <br />
 
-Over time humans tried to come up with methods to represent knowledge using something we call <i style="color: blue">Knowledge engineering</i> 
+Over time humans tried to come up with methods to represent knowledge using something we call <i>«Knowledge engineering»</i> its mainly sets of methods and attempts to gather explicit knowledge possessed by experts in some narrow domain.
 
 
 
-
-<font color='red'>dsdsds</font>
